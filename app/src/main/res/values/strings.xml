@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Upcoming</string>
+    <string name="favorite">favorite</string>
+    <string name="share">share</string>
+    <string name="details">details</string>
+    <string name="Goosebumps_2">Goosebumps 2</string>
+    <string name="display">display</string>
+    <string name="content_specs_display">content specs display</string>
+</resources>
